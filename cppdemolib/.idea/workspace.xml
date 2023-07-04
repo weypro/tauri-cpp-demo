@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="cppdemolib" targetName="mylibrary_test" />
+      <config projectName="cppdemolib" targetName="cppdemolib" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_TOOLCHAIN_FILE=&quot;I:\Program Files\vcpkg\scripts\buildsystems\vcpkg.cmake&quot;" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ada2af94-16f1-4d70-bf6d-cb8bb9d6cbb7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/CoreExport.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/CoreExport.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/cppdemolib_api.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/cppdemolib_api.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cppdemolib_api.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/cppdemolib_api.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_hello.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_hello.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tauri-app/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../tauri-app/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tauri-app/src-tauri/build.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../tauri-app/src-tauri/build.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tauri-app/src-tauri/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../tauri-app/src-tauri/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tauri-app/src-tauri/tauri.conf.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tauri-app/src-tauri/tauri.conf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tauri-app/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../tauri-app/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tauri-app/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../tauri-app/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tauri-app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../tauri-app/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="k69gfy77" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.4" />
+  </component>
+  <component name="ProjectId" id="2S6dqyximMPT2kPLsmm8VyVq3R9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "ctest.advertisement.all.test.configuration.is.created": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Google Test.mylibrary_test">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mylibrary_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppdemolib" TARGET_NAME="mylibrary_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cppdemolib" RUN_TARGET_NAME="mylibrary_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cppdemolib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cppdemolib" TARGET_NAME="cppdemolib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All CTest" type="CTestRunConfiguration" factoryName="CTestRun" PROGRAM_PARAMS="--extra-verbose" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$CMakeCurrentLocalGenerationDir$" PASS_PARENT_ENVS_2="true" RUN_PATH="$CTestCurrentExecutableName$" EXPLICIT_BUILD_TARGET_NAME="all" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.cppdemolib" />
+      <item itemvalue="CTest Application.All CTest" />
+      <item itemvalue="Google Test.mylibrary_test" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ada2af94-16f1-4d70-bf6d-cb8bb9d6cbb7" name="Changes" comment="" />
+      <created>1688471160196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688471160196</updated>
+      <workItem from="1688471162660" duration="1668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

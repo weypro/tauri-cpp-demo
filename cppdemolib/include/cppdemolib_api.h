@@ -13,6 +13,7 @@ typedef struct {
 
 
 CPPDEMOLIB_EXPORT demolib_version_struct demolib_get_version();
+CPPDEMOLIB_EXPORT const char *demolib_get_version_str();
 
 CPPDEMOLIB_EXPORT int add(int a, int b);
 
